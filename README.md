@@ -19,6 +19,7 @@ Python · pytest · Selenium · Postman · requests · jinja2 · GitHub Actions 
 ### Writing
 
 - Dev.to: [Postman and pytest are living in parallel universes. Here is a bridge.](https://dev.to/golikovichev/postman-and-pytest-are-living-in-parallel-universes-heres-a-bridge-5bgn). A walkthrough of how postman2pytest came together.
+- Dev.to: [Kibana logs to pytest, with auth and secrets scrubbed by default.](https://dev.to/golikovichev/your-kibana-logs-are-full-of-test-cases-here-is-a-cli-that-extracts-them-with-auth-scrubbed-by-4433). Design write-up for secure-log2test, including the three-layer redaction story.
 - Hashnode: [same article, different audience](https://golikovichevhashnodedev.hashnode.dev/postman-and-pytest-are-living-in-parallel-universes-here-s-a-bridge).
 
 ### How I work
