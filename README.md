@@ -6,14 +6,14 @@ QA engineer based in Hove, UK. I build open-source Python tools for testers, mos
 
 ### Featured projects
 
-| Project | What it does | |
-|---|---|---|
-| **[postman2pytest](https://github.com/golikovichev/postman2pytest)** | Convert Postman v2 collections into runnable pytest suites: auth headers, env vars, parametrised fixtures. On PyPI. | [![stars](https://img.shields.io/github/stars/golikovichev/postman2pytest?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/postman2pytest/stargazers) ![PyPI](https://img.shields.io/pypi/v/postman2pytest?style=flat-square) |
-| **[secure-log2test](https://github.com/golikovichev/secure-log2test)** | Generate pytest regression tests from anonymised Kibana log exports, with PII redacted by default. On PyPI. | [![stars](https://img.shields.io/github/stars/golikovichev/secure-log2test?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/secure-log2test/stargazers) ![PyPI](https://img.shields.io/pypi/v/secure-log2test?style=flat-square) |
-| **[pytest-conversational](https://github.com/golikovichev/pytest-conversational)** | pytest plugin for deterministic multi-turn dialogue testing. No LLM dependency. | [![stars](https://img.shields.io/github/stars/golikovichev/pytest-conversational?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/pytest-conversational/stargazers) |
-| **[phoenix2pytest](https://github.com/golikovichev/phoenix2pytest)** | Turn production LLM failures into regression tests, automatically. | [![stars](https://img.shields.io/github/stars/golikovichev/phoenix2pytest?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/phoenix2pytest/stargazers) |
-| **[pytest-resilience-agent](https://github.com/golikovichev/pytest-resilience-agent)** | Auto-generate resilience tests for LLM apps from a Lark grammar. | [![stars](https://img.shields.io/github/stars/golikovichev/pytest-resilience-agent?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/pytest-resilience-agent/stargazers) |
-| **[flaky-detector-agent](https://github.com/golikovichev/flaky-detector-agent)** | Detect flaky tests from CI history and propose fixes. | [![stars](https://img.shields.io/github/stars/golikovichev/flaky-detector-agent?style=flat-square&label=%E2%98%85)](https://github.com/golikovichev/flaky-detector-agent/stargazers) |
+| Project | What it does |
+|---|---|
+| **[postman2pytest](https://github.com/golikovichev/postman2pytest)** [![PyPI](https://img.shields.io/pypi/v/postman2pytest?style=flat-square&label=pypi)](https://pypi.org/project/postman2pytest/) | Convert Postman v2 collections into runnable pytest suites: auth headers, env vars, parametrised fixtures. |
+| **[secure-log2test](https://github.com/golikovichev/secure-log2test)** [![PyPI](https://img.shields.io/pypi/v/secure-log2test?style=flat-square&label=pypi)](https://pypi.org/project/secure-log2test/) | Generate pytest regression tests from anonymised Kibana log exports, with PII redacted by default. |
+| **[pytest-conversational](https://github.com/golikovichev/pytest-conversational)** | pytest plugin for deterministic multi-turn dialogue testing. No LLM dependency. |
+| **[phoenix2pytest](https://github.com/golikovichev/phoenix2pytest)** | Turn production LLM failures into regression tests, automatically. |
+| **[pytest-resilience-agent](https://github.com/golikovichev/pytest-resilience-agent)** | Auto-generate resilience tests for LLM apps from a Lark grammar. |
+| **[flaky-detector-agent](https://github.com/golikovichev/flaky-detector-agent)** | Detect flaky tests from CI history and propose fixes. |
 
 ### Writing
 
