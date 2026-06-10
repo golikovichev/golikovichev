@@ -26,15 +26,8 @@ QA engineer based in Hove, UK. I build open-source Python tools for testers, mos
 
 Sole QA on backend e-commerce. I own API testing across 12+ Postman collections plus a regression suite of 200+ cases, and I maintain an internal Selenium and pytest framework (POM) that other testers on the team picked up from our git. Most of my time goes into root cause analysis with Grafana, Kibana and SQL, and into cutting down flaky tests so they stop costing the team momentum.
 
-### GitHub stats
-
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=golikovichev&show_icons=true&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=golikovichev&layout=compact&hide_border=true)
-
 ### Where to find me
 
-- PyPI: [pypi.org/user/golikovichev](https://pypi.org/user/golikovichev/)
-- Dev.to: [dev.to/golikovichev](https://dev.to/golikovichev)
-- GitHub Discussions: I occasionally chime in on pytest-dev threads.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-golikov-b19308263/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/golikovichev) [![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?style=flat-square&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/golikovichev) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/golikovichev/)
 
-Found a real bug in any tool above? Opening an issue is the fastest way to my attention.
+I also chime in on pytest-dev GitHub Discussions now and then. Found a real bug in any tool above? Opening an issue is the fastest way to my attention.
