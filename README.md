@@ -1,3 +1,5 @@
+![Mikhail Golikov - open-source Python tools for testers](assets/profile-banner.png)
+
 ### Hi, I'm Mikhail
 
 QA engineer based in Hove, UK. I build open-source Python tools for testers, mostly around pytest and the everyday problems of API and integration testing: brittle test data, slow suites, and the gap between the tools teams already use (Postman, Kibana) and proper test code.
