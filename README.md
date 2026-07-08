@@ -18,6 +18,8 @@ QA engineer based in Hove, UK. I build open-source Python tools for testers, mos
 
 ### Writing
 
+- SD Times: [Don't let the model grade its own homework](https://sdtimes.com/test/dont-let-the-model-grade-its-own-homework/). Why an LLM should not grade its own output, and what to use instead.
+- Computer Weekly (Open Source Insider): [Do one thing well: the case for small open source testing tools](https://www.computerweekly.com/blog/Open-Source-Insider/Do-one-thing-well-the-case-for-small-open-source-testing-tools). Small single-purpose testing tools versus large frameworks, from a maintainer's point of view.
 - Dev.to: [Postman and pytest are living in parallel universes. Here is a bridge.](https://dev.to/golikovichev/postman-and-pytest-are-living-in-parallel-universes-heres-a-bridge-5bgn) How postman2pytest came together. Also on Medium and Hashnode.
 - Dev.to: [Keep the LLM out of your chatbot tests](https://dev.to/golikovichev/keep-the-llm-out-of-your-chatbot-tests-236a). Why deterministic dialogue testing beats an LLM-as-judge, the idea behind pytest-conversational.
 - Dev.to: [Green unit tests are a comfort blanket](https://dev.to/golikovichev/green-unit-tests-are-a-comfort-blanket-40ag). Property-based fuzzing found five real crash bugs my green suite missed.
@@ -32,4 +34,4 @@ Sole QA on backend e-commerce. I own API testing across 12+ Postman collections 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-golikov-b19308263/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/golikovichev) [![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?style=flat-square&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/golikovichev) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/golikovichev/)
 
-I also chime in on pytest-dev GitHub Discussions now and then. Found a real bug in any tool above? Opening an issue is the fastest way to my attention.
+I also contribute fixes upstream now and then (a couple landed in pytest-bdd) and chime in on pytest-dev Discussions. Found a real bug in any tool above? Opening an issue is the fastest way to my attention.
