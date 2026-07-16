@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mikhail
 
-QA engineer based in Hove, UK. I build open-source Python tools for testers, mostly around pytest and the everyday problems of API and integration testing: brittle test data, slow suites, and the gap between the tools teams already use (Postman, Kibana) and proper test code.
+Software engineer in Hove, UK. I build open-source Python testing tools, mostly around pytest and the everyday problems of API and integration testing: brittle test data, slow suites, and the gap between the tools teams already use (Postman, Kibana) and proper test code. My background is in QA automation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
